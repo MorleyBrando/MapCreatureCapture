@@ -13,5 +13,8 @@ I made this for one of my classes using Flutter and a Redis Database for the Ter
 
 
 Brando Morley
+<br>
 morleybrando@gmail.com
+<br>
 MorleyBrando on Github
+<br>

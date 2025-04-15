@@ -1,6 +1,6 @@
-# TerpiezApp
+# MapCreatureCapture
 
-Terpiez is an app that allows you to walk the grounds of The University of Maryland and capture creatures called Terpiez when near them on the map. A quick shake when near one captures the Terpy and adds it into your list of already caught Terpiez. Once captured you can click on the Terpy in the list tab to get a complete description and stats of the Terpy. You can also see how many Terpiez you have caught in total as well as the amount of days since you first downloaded the game.
+MapCreatureCapture is an app that allows you to walk the grounds of The University of Maryland and capture creatures called Terpiez when near them on the map. A quick shake when near one captures the Terpy and adds it into your list of already caught Terpiez. Once captured you can click on the Terpy in the list tab to get a complete description and stats of the Terpy. You can also see how many Terpiez you have caught in total as well as the amount of days since you first downloaded the game.
 
 I made this for one of my classes using Flutter and a Redis Database for the Terpiez. 
 
